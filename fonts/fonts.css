@@ -1,0 +1,13 @@
+:root {
+    --primary: #fff;
+}
+
+@font-face {
+    font-family: SoDoSans-Bold;
+    src: url(SoDoSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: SoDoSans-Regular;
+    src: url(SoDoSans-Regular.ttf);
+}

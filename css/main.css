@@ -1,0 +1,239 @@
+/* Iconos */
+@import url('https://cdn-uicons.flaticon.com/2.1.0/uicons-solid-straight/css/uicons-solid-straight.css');
+/* Fuentes */
+@import url(/fonts/fonts.css);
+
+/* Estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: SoDoSans-Regular;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 25px 50px;
+    box-shadow: gray 0px 0px 5px 0px;
+    gap: 155px;
+}
+
+.menu-section-one ul {
+    align-items: center;
+    font-family: SoDoSans-Bold;
+    display: flex;
+    font-size: 14px;
+    gap: 40px;
+}
+
+.menu-section-one a:hover {
+    color: #006241;
+}
+
+.menu-section-two ul {
+    display: flex;
+    font-size: 13px;
+    align-items: center;
+    font-weight: bold;
+    gap: 44px;
+}
+
+.shop-search:hover {
+    color: #006241;
+}
+
+.shop-search i {
+    margin-right: 10px;
+    color: #000;
+    font-size: 25px;
+}
+
+.li-two-list {
+    display: flex;
+    gap: 44px;
+}
+
+.li-two-list .sign-in {
+    background: none;
+    border-radius: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.87);
+    padding: 7px 16px;
+}
+
+.li-two-list .sign-in:hover {
+    border-color: #006241;
+    color: #006241;
+}
+
+.li-two-list .sign-up {
+    background: #000;
+    color: #fff;
+    border-radius: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.87);
+    padding: 7px 16px;
+}
+
+.li-two-list .sign-up:hover {
+    background-color: #00000094;
+}
+
+nav a {
+    color: #000000de;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* -------------------------- */
+
+.box-coffe-americano {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.coffe-americano-info {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 675px;
+    align-items: center;
+    background-color: #1e3932;
+    color: #fff;
+}
+
+.coffe-americano-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.coffe-americano-content h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.coffe-americano-content p {
+    font-size: 25px;
+    width: 600px;
+}
+
+.odenar-btn {
+    padding: 15px;
+}
+
+.coffe-americano-content a {
+    background-color: #996e36;
+    color: #fff;
+    font-weight: bold;
+    padding: 16px 28px;
+    border-radius: 50px;
+    font-size: 24px;
+}
+
+/* -------------------------- */
+
+.box-coffe-frappuccino {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.coffe-frappuccino-info {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 675px;
+    align-items: center;
+    background-color: #ec98f5;
+    color: #fff;
+}
+
+.coffe-frappuccino-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.coffe-frappuccino-content h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.coffe-frappuccino-content p {
+    font-size: 25px;
+    width: 600px;
+}
+
+.odenar-btn {
+    padding: 15px;
+}
+
+.coffe-frappuccino-content a {
+    background-color: #384bff;
+    color: #fff;
+    font-weight: bold;
+    padding: 16px 28px;
+    border-radius: 50px;
+    font-size: 24px;
+}
+
+/* -------------------------- */
+.box-coffe-beneficios {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.coffe-beneficios-info {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 675px;
+    align-items: center;
+    background-color: #d29c3f;
+    color: #fff;
+}
+
+.coffe-beneficios-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.coffe-beneficios-content h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.coffe-beneficios-content p {
+    font-size: 25px;
+    width: 600px;
+}
+
+.odenar-btn {
+    padding: 15px;
+}
+
+.coffe-beneficios-content a {
+    background-color: #006241;
+    color: #fff;
+    font-weight: bold;
+    padding: 16px 28px;
+    border-radius: 50px;
+    font-size: 24px;
+}
+/* -------------------------- */
+/* -------------------------- */
+/* -------------------------- */
+/* -------------------------- */
